@@ -1,6 +1,6 @@
 <h1>Hi, I’m @ch1kim0n1 (Vlad) 👋</h1>
 
-- I’m interested in full back end development
+- I’m interested in back end development
 - I’m currently learning node js
 - I’m looking to collaborate on different projects
 
