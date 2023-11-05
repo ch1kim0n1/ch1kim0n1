@@ -1,4 +1,4 @@
-<h1>Hi, I am Vlad 👋 (Updated 06/07/2023)</h1>
+<h1>Hi, I am Vlad 👋 (Updated 11/05/2023)</h1>
 
 - I enjoy working primarily on back-end development, but I can also handle front-end tasks if required.
 - Currently, I'm learning ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
