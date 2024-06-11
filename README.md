@@ -1,4 +1,4 @@
-<h1>Hi, I am Vlad 👋 (Updated 04/12/2024)</h1>
+<h1>Hi, I am Vladislav 👋 (Updated 06/11/2024)</h1>
 
 - I enjoy working primarily on back-end development, but I can also handle front-end tasks if required.
 - Currently, I'm learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -9,9 +9,9 @@
 <br>
 
 Here's what I'm currently working on:
- 1. _Conversational_ AI 
- 2. _Object Recognition Software for my FRC team_ 
- 3. _Anilist Community Website(6thStreet)_
+ 1. _Miltifunctional Prediction ML Model_
+ 2. _Iron Bridge (Videogame)_
+ 3. _Personal Portfolio Website_
 
 
 
@@ -61,12 +61,9 @@ Frameworks/Platforms/Libraries/Tools I worked with:
 ---
 <p> Apart from programming, I'm interested in 
   robotics, 
-  anime, 
-  manga, 
+  game development, 
+  creative writing, 
   soccer, 
   and video games.
 
 I have a strong desire to dive into the fascinating field of computer science and expand my knowledge. I am excited to explore its vast and amazing world, understanding its intricacies and uncovering its hidden gems.</p>
-<div align="center">
-  <img align="center" style="width:80%" alt="anime girl holding a book 'The Art of Programming' that is in Russian" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Algorithms/Rina_Tennoji_Holds_Russian_The_Art_Of_Computer_Programming.png?raw=true">
-</div>
