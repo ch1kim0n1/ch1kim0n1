@@ -9,8 +9,8 @@
 <br>
 
 Here's what I'm currently working on:
- 1. _Miltifunctional Prediction ML Model_
- 2. _Iron Bridge (Videogame)_
+ 1. ...
+ 2. ...
  3. _Personal Portfolio Website_
 
 
