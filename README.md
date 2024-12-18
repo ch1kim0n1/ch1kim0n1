@@ -1,4 +1,4 @@
-<h1>Hi, I am Vladislav 👋 (Updated 09/09/2024)</h1>
+<h1>Hi, I am Vladislav 👋 (Updated 12/18/2024)</h1>
 
 - I enjoy working primarily on back-end development, but I can also handle front-end tasks if required.
 - Currently, I'm learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -9,8 +9,8 @@
 <br>
 
 Here's what I'm currently working on:
- 1. ...
- 2. ...
+ 1. _Work_
+ 2. _Pixel Art RPG game on Unity_
  3. _Personal Portfolio Website_
 
 
