@@ -1,74 +1,114 @@
-<h1>Hi, I am Vladislav 👋 (Updated 12/18/2024)</h1>
+<h1 align="center">Hey there, I'm <a href="https://github.com/ch1kim0n1">Vladislav Kondratyev</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-- I enjoy working primarily on back-end development, but I can also handle front-end tasks if required.
-- Currently, I'm learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+- **Full Stack Developer** and **Software Engineer Lead** @ multiple organizaitons & jobs
+- Currently, I'm learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 - I'm interested in learning: ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-- I would love to collaborate on different projects, as `gaining experience is key to success`!
+- Participated in 5+ hackathons; awarded **Best College Student Project** at Amazon’s Hackathon 2024.  
+- `I would love to collaborate on different projects, as gaining experience is key to success!`
 
-
-<br>
-
-Here's what I'm currently working on:
- 1. _Work_
- 2. _Pixel Art RPG game on Unity_
- 3. _Personal Portfolio Website_
-
-
-
-<div align="center">
-<img align="center" src="https://i.pinimg.com/originals/a6/b6/77/a6b6771978e26a37950c68ca96fb3e63.gif"></div>
-
-<br>
-
-### Languages I've worked with:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-### Video game engines I've worked with:
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-
-### Development environments I've used:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### Operating systems I'm familiar with:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### Frameworks/Platforms/Libraries/Tools I worked with:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
-<br>
-
-<!--
-![snake gif](https://github.com/ch1kim0n1/ch1kim0n1/blob/output/github-contribution-grid-snake.gif)
--->
 ---
-<p> Apart from programming, I'm interested in 
-  robotics, 
-  game development, 
-  creative writing, 
-  soccer, 
-  and video games.
 
-I have a strong desire to dive into the fascinating field of computer science and expand my knowledge. I am excited to explore its vast and amazing world, understanding its intricacies and uncovering its hidden gems.</p>
+## Currently Working On
+ 1. `Music Project S`
+ 2. `Secret Project Lenged`
+ 3. `Personal Portfolio Website`
+
+---
+
+## My Top 3 Projects
+
+1. **Prophecy (HackUTD 2024)**
+   - Python-based ML Financial Assessor Webapp using **FastAPI**, **React**, and **Postgres**.
+   - Achieved **95% model accuracy** with **LightGBM** for loan approval and risk detection.
+
+2. **6thStreet**
+   - Full-stack platform for anime community event management, scaling monthly visitors to **10,000+**.
+   - Reduced server downtime by 20% via **Node.js**, **Express**, and **React** optimization.
+
+3. **Char.AI**
+   - Created a character-based AI system with context-aware response generation.
+   - Achieved a 25% boost in user satisfaction; leveraged **PyTorch** + **RoBERTa** for NLP.
+
+---
+
+## 🌐 Skills & Tools
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+### Frameworks, Libraries & Tools
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LightGBM-003974?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RoBERTa-2496ED?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Lex-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+### Game Engines
+<p>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white"/>
+</p>
+
+### Development Environments
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+</p>
+
+### Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>
+
+---
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=ch1kim0n1&show_icons=true&theme=radical" alt="ch1kim0n1's GitHub stats" />
+  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=ch1kim0n1&theme=radical" alt="ch1kim0n1's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ch1kim0n1&theme=gruvbox" alt="ch1kim0n1's trophy" />
+</p>
+
+---
+
+I have a strong desire to dive into the fascinating field of computer science and expand my knowledge. I am excited to explore its vast and amazing world, understanding its intricacies and uncovering its hidden gems.
+
+<h3 align="center">✨ Thank you for visiting! ✨</h3>
