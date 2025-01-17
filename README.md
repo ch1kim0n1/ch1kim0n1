@@ -8,10 +8,10 @@
 
 ---
 
-## Currently Working On
+## Current Personal Projects I am Working On
  1. `Music Project S`
- 2. `Secret Project Lenged`
- 3. `Personal Portfolio Website`
+ 2. `Personal Portfolio Website`
+ 3. `Heat Map (C++ version)`
 
 ---
 
