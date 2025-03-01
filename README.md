@@ -3,7 +3,7 @@
 - **Full Stack Developer** and **Software Engineer Lead** @ multiple organizaitons & jobs
 - Currently, I'm learning ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 - I'm interested in learning: ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-- Participated in 5+ hackathons; awarded **Best College Student Project** at Amazon’s Hackathon 2024.  
+- Participated in 10+ hackathons; awarded **Best College Student Project** at Amazon’s Hackathon 2024.  
 - `I would love to collaborate on different projects, as gaining experience is key to success!`
 
 ---
