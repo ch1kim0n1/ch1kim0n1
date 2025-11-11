@@ -4,8 +4,8 @@
 - Currently, I'm learning ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 - I'm interested in learning: ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 - Participated in 10+ hackathons;
-- awarded **Best College Student Project** at Amazon’s Hackathon 2024
-- awarded **Winner** at HackAI 2025
+- awarded **Best College Student Project** at Amazon’s Break the Barrier Hackathon 2024
+- awarded **Winner** at HackAI 2025, HackRice 2025, RowdyHacks 2025, and etc.
 - `I would love to collaborate on different projects, as gaining experience is key to success!`
 
 ---
