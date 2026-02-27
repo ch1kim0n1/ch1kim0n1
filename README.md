@@ -1,9 +1,11 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a4a,100:1f6feb&height=220&section=header&text=Vladislav%20Kondratyev&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%7C%20AI%20Systems%20Builder%20%7C%20Founder&descAlignY=58&descSize=18&descColor=8b9ec7)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=2200&pause=800&color=9CA3AF&center=true&vCenter=true&width=700&lines=Systems+Engineer+%40+Nutanix;Software+Developer+%40+Meta;Software+Engineer+%40+Intel+(GPU+%2F+AI+Pipelines);Software+Engineer+II+%40+CNF+Technologies;Founder+%26+CEO+%40+MindCore;Research+Lead+%40+EchoLab" />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vladislav-kondratyev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ch1kim0n1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vxk230059@utdallas.edu)
 [![LeetCode](https://img.shields.io/badge/LeetCode-VladislavKon-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/VladislavKon/)
 ![Profile Views](https://komarev.com/ghpvc/?username=ch1kim0n1&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
